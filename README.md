@@ -1,4 +1,4 @@
-# LimEditor
+# LimeEditor
 
 ![LimEditor](https://images.unsplash.com/photo-1542831371-29b0f74f9713?auto=format&fit=crop&q=80&w=1200&h=400)
 
@@ -19,10 +19,10 @@ A modern, feature-rich text editor built with React and TypeScript that combines
 
 ```bash
 # Clone the repository
-git clone https://github.com/RUPAMLAHA-code/limeditor.git
+git clone https://github.com/RUPAMLAHA-code/LimeEditor.git
 
 # Navigate to project directory
-cd limeditor
+cd LimeEditor
 
 # Install dependencies
 npm install
