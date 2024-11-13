@@ -1,6 +1,6 @@
 # LimeEditor
 
-![LimEditor](https://images.unsplash.com/photo-1542831371-29b0f74f9713?auto=format&fit=crop&q=80&w=1200&h=400)
+![LimEditor](./images/lime.png)
 
 A modern, feature-rich text editor built with React and TypeScript that combines simplicity with powerful features.
 
