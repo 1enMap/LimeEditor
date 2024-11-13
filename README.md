@@ -19,7 +19,7 @@ A modern, feature-rich text editor built with React and TypeScript that combines
 
 ```bash
 # Clone the repository
-git clone https://github.com/RUPAMLAHA-code/LimeEditor.git
+git clone https://github.com/1enMap/LimeEditor.git
 
 # Navigate to project directory
 cd LimeEditor
@@ -49,14 +49,6 @@ npm run dev
 
 ### Auto-Save
 Your work is automatically saved to local storage as you type, ensuring you never lose your progress.
-
-### Translation Support
-Select any text and translate it instantly to multiple languages:
-- Hindi
-- Spanish
-- French
-- German
-- And more...
 
 ### PDF Export
 Export your documents to PDF format with a single click, maintaining formatting and layout.
