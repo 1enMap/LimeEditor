@@ -71,7 +71,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 👤 Author
 
 **Rupam Laha**
-- GitHub: [@RUPAMLAHA-code](https://github.com/RUPAMLAHA-code)
+- GitHub: [@1enMap](https://github.com/1enMap)
 
 ## 🌟 Acknowledgments
 
